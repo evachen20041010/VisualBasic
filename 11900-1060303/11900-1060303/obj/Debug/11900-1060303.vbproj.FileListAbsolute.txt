@@ -1,0 +1,13 @@
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\bin\Debug\11900-1060303.exe.config
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\bin\Debug\11900-1060303.exe
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\bin\Debug\11900-1060303.pdb
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\bin\Debug\11900-1060303.xml
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.vbproj.AssemblyReference.cache
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\_11900_1060303.Form1.resources
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\_11900_1060303.Resources.resources
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.vbproj.GenerateResource.cache
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.vbproj.CoreCompileInputs.cache
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.exe
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.xml
+C:\Users\mshome\source\11900\11900-1060303\11900-1060303\obj\Debug\11900-1060303.pdb
