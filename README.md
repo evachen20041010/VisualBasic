@@ -10,3 +10,7 @@
 
 ## 術科筆記
 - https://1drv.ms/u/s!AjoXQ-os643j5WH8wQ-lVUDa4x3f
+
+## 參考影片
+- https://www.youtube.com/playlist?list=PLTvNPsPM8o6Khaj7Kide0bO12GVhNIb2m
+- https://www.youtube.com/watch?v=qOuAmibYJ9A
