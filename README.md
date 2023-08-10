@@ -7,3 +7,6 @@
 - [電腦軟體設計丙檢1060306](https://github.com/evachen20041010/VisualBasic/tree/1060306)
 - [電腦軟體設計丙檢1060307](https://github.com/evachen20041010/VisualBasic/tree/1060307)
 - [電腦軟體設計丙檢1060308](https://github.com/evachen20041010/VisualBasic/tree/1060308)
+
+## 術科筆記
+- https://1drv.ms/u/s!AjoXQ-os643j5WH8wQ-lVUDa4x3f
