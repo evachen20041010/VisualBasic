@@ -68,7 +68,9 @@
         Loop While i <= 3
 
         '最小值做四捨五入
-        Dim bmi45 As Integer = bmi_s    '自動做四捨五入
+        bmi_s = bmi_s + 0.5
+        Dim bmi45 As Integer    '四捨五入結果
+        bmi45 = bmi_s - bmi_s Mod 1
         If bmi45 >= 20 And bmi45 <= 25 Then
             txt_01.Text = "第四題結果：最小BMI值=" & bmi45 & "，正常"
         Else
