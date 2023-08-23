@@ -88,7 +88,8 @@
         dgv.DataSource = dt
 
         '照身分證由小到大排序
-        dgv.Sort(dgv.Columns(0), System.ComponentModel.ListSortDirection.Ascending)
+        'dgv.Sort(dgv.Columns(0), System.ComponentModel.ListSortDirection.Ascending)
+        dgv.Sort(dgv.Columns(0), 0)
 
         '避免空白欄
         dgv.AllowUserToAddRows = False
