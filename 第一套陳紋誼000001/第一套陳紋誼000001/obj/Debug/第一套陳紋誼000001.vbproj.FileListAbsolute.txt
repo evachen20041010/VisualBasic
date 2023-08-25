@@ -1,0 +1,13 @@
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\bin\Debug\第一套陳紋誼000001.exe.config
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\bin\Debug\第一套陳紋誼000001.exe
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\bin\Debug\第一套陳紋誼000001.pdb
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\bin\Debug\第一套陳紋誼000001.xml
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.vbproj.AssemblyReference.cache
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.Form1.resources
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.Resources.resources
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.vbproj.GenerateResource.cache
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.vbproj.CoreCompileInputs.cache
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.exe
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.xml
+C:\Users\mshome\source\11900\第一套陳紋誼000001\第一套陳紋誼000001\obj\Debug\第一套陳紋誼000001.pdb
