@@ -1,0 +1,13 @@
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\bin\Debug\第二套陳紋誼000008.exe.config
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\bin\Debug\第二套陳紋誼000008.exe
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\bin\Debug\第二套陳紋誼000008.pdb
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\bin\Debug\第二套陳紋誼000008.xml
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.vbproj.AssemblyReference.cache
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.vbproj.SuggestedBindingRedirects.cache
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.Form1.resources
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.Resources.resources
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.vbproj.GenerateResource.cache
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.vbproj.CoreCompileInputs.cache
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.exe
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.xml
+C:\Users\mshome\source\11900\第二套陳紋誼000008\第二套陳紋誼000008\obj\Debug\第二套陳紋誼000008.pdb
